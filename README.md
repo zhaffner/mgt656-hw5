@@ -1,4 +1,4 @@
-## Example Node.js project for MGT-656 HW2
+## Example Node.js project for MGT-656 HW5
 
 This is a minimal [Node.js](http://nodejs.org/)
 application that we are using for the second
